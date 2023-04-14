@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Consulta-cep/static/css/main.b06a1384.css",
+    "main.js": "/Consulta-cep/static/js/main.630237ce.js",
+    "static/js/787.34b4edd7.chunk.js": "/Consulta-cep/static/js/787.34b4edd7.chunk.js",
+    "index.html": "/Consulta-cep/index.html",
+    "main.b06a1384.css.map": "/Consulta-cep/static/css/main.b06a1384.css.map",
+    "main.630237ce.js.map": "/Consulta-cep/static/js/main.630237ce.js.map",
+    "787.34b4edd7.chunk.js.map": "/Consulta-cep/static/js/787.34b4edd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06a1384.css",
+    "static/js/main.630237ce.js"
+  ]
+}
